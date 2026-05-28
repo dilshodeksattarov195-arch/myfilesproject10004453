@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingptringify",
+        "uuid": 24188696,
+        "checksum": "qjj76a"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
